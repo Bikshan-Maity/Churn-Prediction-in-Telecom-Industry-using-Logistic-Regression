@@ -24,7 +24,7 @@ Cleaning Data: Data preprocessing is a crucial step in any machine learning proj
 
 Variable Imbalancing: Imbalanced datasets can lead to biased models. In this step, we address class imbalance issues using techniques such as oversampling or undersampling.
 
-Prerequisites#
+Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
