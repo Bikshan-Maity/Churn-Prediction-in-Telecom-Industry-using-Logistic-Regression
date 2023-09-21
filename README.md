@@ -2,17 +2,18 @@
 Churn Prediction in Telecom Industry using Logistic Regression
 This repository contains code and resources for the "Churn Prediction in Telecom Industry using Logistic Regression" internship project at CodeClause.
 
-#Table of Contents
+Table of Contents
 
 Introduction
 Project Overview
 Prerequisites
 
-#Introduction
+Introduction
 
 Churn prediction is a critical task in the telecom industry, where retaining customers is essential for business success. This project focuses on using logistic regression to predict customer churn based on various features and historical data.
 
-#Project Overview
+Project Overview
+
 The project is divided into several key steps:
 
 Importing Libraries: In this step, we import the necessary Python libraries required for data manipulation, analysis, and machine learning.
@@ -23,7 +24,7 @@ Cleaning Data: Data preprocessing is a crucial step in any machine learning proj
 
 Variable Imbalancing: Imbalanced datasets can lead to biased models. In this step, we address class imbalance issues using techniques such as oversampling or undersampling.
 
-#Prerequisites#
+Prerequisites#
 
 Before you begin, ensure you have met the following requirements:
 
