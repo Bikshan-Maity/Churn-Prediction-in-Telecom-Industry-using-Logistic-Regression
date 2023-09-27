@@ -1,4 +1,4 @@
-# CodeClause
+# Churn Prediction in Telecom Industry using Logistic Regression
 Churn Prediction in Telecom Industry using Logistic Regression
 This repository contains code and resources for the "Churn Prediction in Telecom Industry using Logistic Regression" internship project at CodeClause.
 
